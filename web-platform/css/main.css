@@ -1,0 +1,41 @@
+body{
+    background-color:#444;
+}
+
+.box{
+    color:#4b1313;
+    text-shadow: 1px 1px 1px #c07f7f;
+    padding:20px;
+    margin:40px;
+    /*height:327px;
+    width:402px;*/
+    background: #b53434;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid #c67f7f;
+    border-top: 1px solid #e2bfbf;
+    -moz-box-shadow: 0 1px 3px black;
+    -webkit-box-shadow: 0 1px 3px black;
+    box-shadow: 0 1px 3px black;
+}
+.season{
+    padding:20px;
+    margin:40px;
+    height:1200px;
+    background: #dddddd;
+    background: -webkit-linear-gradient(top,  #dddddd 0%,#cccccc 50%,#eeeeee 51%,#cccccc 100%);
+    background: -moz-linear-gradient(top,  #dddddd 0%, #cccccc 50%, #eeeeee 51%, #cccccc 100%);
+    background: -ms-linear-gradient(top,  #dddddd 0%,#cccccc 50%,#eeeeee 51%,#cccccc 100%);
+    background: -o-linear-gradient(top,  #dddddd 0%,#cccccc 50%,#eeeeee 51%,#cccccc 100%);
+    background: linear-gradient(to bottom,  #dddddd 0%,#cccccc 50%,#eeeeee 51%,#cccccc 100%);
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border: 1px solid #eee;
+    border-top: 1px solid #ffffff;
+    text-shadow: 1px 1px 1px #eee;
+    -moz-box-shadow: 0 1px 3px black;
+    -webkit-box-shadow: 0 1px 3px black;
+    box-shadow: 0 1px 3px black;
+}
