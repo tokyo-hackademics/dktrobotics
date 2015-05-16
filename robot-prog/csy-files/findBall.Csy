@@ -1,0 +1,16 @@
+Title:Main - [ findBall ] for e-Gadget CORE C-Style [ Ver.20110602 ]
+CN01:Ball
+CN02:Line
+CN03:L-Touch
+CN04:R-Touch
+CN05:
+CN06:
+CN07:
+CN08:
+CN09:RED3
+CN10:RED2
+[0001]:sno:01,cno:14,val:000010-000001-000000,cmt:Ball
+[0002]:sno:21,cno:21,val:000100-000100-000000,cmt:はい．前進
+[0003]:sno:03,cno:00,val:000000-000000-000000,cmt:
+[0004]:sno:23,cno:23,val:-00030-000030-000000,cmt:いいえ．回転
+[0005]:sno:00,cno:02,val:000000-000000-000000,cmt:

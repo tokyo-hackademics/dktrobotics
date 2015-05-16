@@ -1,0 +1,23 @@
+Title:Main - [ challeng4 ] for e-Gadget CORE C-Style [ Ver.20110602 ]
+CN01:Ball
+CN02:Line
+CN03:L-Touch
+CN04:R-Touch
+CN05:
+CN06:
+CN07:
+CN08:
+CN09:RED3
+CN10:RED2
+[0001]:sno:04,cno:01,val:000000-000000-000000,cmt:
+[0002]:sno:01,cno:14,val:000050-000021-000000,cmt:L-Touch
+[0003]:sno:21,cno:21,val:000100-000100-000000,cmt:
+[0004]:sno:29,cno:29,val:005000-000000-000000,cmt:
+[0005]:sno:02,cno:14,val:000050-000031-000000,cmt:R-Touch
+[0006]:sno:22,cno:22,val:-00100--00100-000000,cmt:
+[0007]:sno:29,cno:29,val:005000-000000-000000,cmt:
+[0008]:sno:03,cno:00,val:000000-000000-000000,cmt:
+[0009]:sno:20,cno:20,val:000000-000000-000000,cmt:
+[0010]:sno:00,cno:02,val:000000-000000-000000,cmt:
+[0011]:sno:20,cno:20,val:000000-000000-000000,cmt:
+[0012]:sno:00,cno:03,val:000000-000000-000000,cmt:

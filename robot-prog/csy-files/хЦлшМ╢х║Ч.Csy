@@ -1,0 +1,17 @@
+Title:Main - [ 喫茶店 ] for e-Gadget CORE C-Style [ Ver.20110602 ]
+CN01:Ball
+CN02:Line
+CN03:L-Touch
+CN04:R-Touch
+CN05:
+CN06:
+CN07:
+CN08:
+CN09:RED3
+CN10:RED2
+[0001]:sno:31,cno:31,val:020000-000003-000000,cmt:コーヒーの注文数
+[0002]:sno:31,cno:31,val:090000-000002-000000,cmt:ジュースの注文数
+[0003]:sno:31,cno:31,val:000033-000400-000000,cmt:コーヒーの金額
+[0004]:sno:31,cno:31,val:010103-000250-000000,cmt:ジュースの金額
+[0005]:sno:31,cno:32,val:120011-000006-000000,cmt:お会計
+[0006]:sno:41,cno:41,val:011300-000000-000000,cmt:

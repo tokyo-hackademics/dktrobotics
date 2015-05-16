@@ -1,0 +1,18 @@
+Title:Main - [ rei4 ] for e-Gadget CORE C-Style [ Ver.20110602 ]
+CN01:Ball
+CN02:Line
+CN03:L-Touch
+CN04:R-Touch
+CN05:
+CN06:
+CN07:
+CN08:
+CN09:RED3
+CN10:RED2
+[0001]:sno:31,cno:31,val:020000-000000-000000,cmt:
+[0002]:sno:05,cno:05,val:000010-000000-000000,cmt:
+[0003]:sno:31,cno:31,val:020031-000001-000000,cmt:
+[0004]:sno:41,cno:41,val:010300-000000-000000,cmt:
+[0005]:sno:35,cno:35,val:000000-000001-000000,cmt:
+[0006]:sno:29,cno:29,val:001000-000000-000000,cmt:
+[0007]:sno:00,cno:04,val:000000-000000-000000,cmt:

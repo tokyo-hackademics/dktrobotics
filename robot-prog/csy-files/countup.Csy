@@ -1,0 +1,20 @@
+Title:Main - [ countup ] for e-Gadget CORE C-Style [ Ver.20110602 ]
+CN01:Ball
+CN02:Line
+CN03:L-Touch
+CN04:R-Touch
+CN05:
+CN06:
+CN07:
+CN08:
+CN09:RED3
+CN10:RED2
+[0001]:sno:31,cno:31,val:000000-000100-000000,cmt:
+[0002]:sno:04,cno:01,val:000000-000000-000000,cmt:
+[0003]:sno:01,cno:14,val:000050-000031-000000,cmt:R-Touch
+[0004]:sno:31,cno:31,val:000012-000010-000000,cmt:
+[0005]:sno:03,cno:00,val:000000-000000-000000,cmt:
+[0006]:sno:00,cno:02,val:000000-000000-000000,cmt:
+[0007]:sno:41,cno:41,val:010100-000000-000000,cmt:
+[0008]:sno:29,cno:29,val:000000-000000-000000,cmt:
+[0009]:sno:00,cno:03,val:000000-000000-000000,cmt:

@@ -1,0 +1,17 @@
+Title:Main - [ 床平均 ] for e-Gadget CORE C-Style [ Ver.20110930 ]
+CN01:Ball
+CN02:Line
+CN03:L-Touch
+CN04:R-Touch
+CN05:
+CN06:
+CN07:
+CN08:
+CN09:RED3
+CN10:RED2
+[0001]:sno:31,cno:31,val:000000-000000-000000,cmt:床センサの合計値を記憶する変数
+[0002]:sno:05,cno:05,val:000010-000000-000000,cmt:
+[0003]:sno:31,cno:32,val:000011-000022-000000,cmt:ループが回る度に床センサの値を確認
+[0004]:sno:33,cno:33,val:000000-000000-000000,cmt:wait_ms(10);
+[0005]:sno:00,cno:04,val:000000-000000-000000,cmt:
+[0006]:sno:31,cno:31,val:000014-000010-000000,cmt:
