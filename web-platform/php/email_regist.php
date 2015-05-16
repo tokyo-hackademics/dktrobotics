@@ -33,7 +33,7 @@ if($email == "") { //未入力の場合、エラーを返す
    $subject = "会員登録URL送信メール";
    $message = "以下のURLより会員登録してください。\n".
    "http://localhost:8888/member_test/regist/index.php?pre_userid=$pre_user_id";
-   $header = "From:test@test.com";
+   $header = "From:info@dkt.jpn.org";
 
    if(!mb_send_mail($to, $subject, $message, $header)) {  //メール送信に失敗したら
      array_push($error,"メールが送信できませんでした。
