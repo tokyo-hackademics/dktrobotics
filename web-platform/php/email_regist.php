@@ -32,7 +32,7 @@ if($email == "") { //未入力の場合、エラーを返す
    $to = $email;
    $subject = "会員登録URL送信メール";
    $message = "以下のURLより会員登録してください。\n".
-   "http://localhost:8888/member_test/regist/index.php?pre_userid=$pre_user_id";
+   "http://157.112.147.24/register.php?pre_userid=$pre_user_id";
    $header = "From:info@dkt.jpn.org";
 
    if(!mb_send_mail($to, $subject, $message, $header)) {  //メール送信に失敗したら

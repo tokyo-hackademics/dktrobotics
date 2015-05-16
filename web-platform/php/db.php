@@ -1,7 +1,7 @@
-$server="localhost";
-$user="root";
+$server="157.112.147.24";
+$user="dktmooc_root";
 $password="root";
-$dbname="dktmooc";
+$dbname="dktmooc_01";
 
 $conn = mysql_connect($server, $user, $password);
 mysql_select_db($dbname);
