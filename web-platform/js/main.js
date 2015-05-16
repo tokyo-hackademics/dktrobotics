@@ -19,7 +19,7 @@ $(document).ready(function(){
 		$(this).children(1).toggle();
             }
 	    else{
-		$(this).append('<iframe src="https://onedrive.live.com/embed?cid=C9ED843235511755&resid=c9ed843235511755%212188&authkey=ACYBl2UOID7HpoU&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>');
+		$(this).append('<iframe src="https://onedrive.live.com/embed?cid=C9ED843235511755&resid=c9ed843235511755%211742&authkey=ALEYM6mAYoiX6sg" width="98" height="120" frameborder="0" scrolling="no"></iframe>');
 		clickedFlag[1] = true;
 	    }
 	}
