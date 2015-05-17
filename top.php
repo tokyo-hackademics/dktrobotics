@@ -192,13 +192,13 @@ $(".ch-img-1").click(function() {
      window.location = "./course.html";
  });
 $(".ch-img-2").click(function() {
-     window.location = "./files.html";
+     window.location = "./file.php";
  });
 $(".ch-img-3").click(function() {
      window.location = "./meeting.html";
  });
 $(".ch-img-4").click(function() {
-     window.location = "./chat.html";
+     window.location = "./bullet.php";
  });
 $(".ch-img-5").click(function() {
      window.location = "./battle.html";
