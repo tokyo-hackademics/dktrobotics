@@ -67,7 +67,7 @@ if ($dir = opendir("./robot-prog")) {
  ?>
 			<li>
 				<figure>
-					<img src="img/thumb/1.png" alt="img01"/>
+					<img src="img/flac.jpg" alt="img01"/>
 					<figcaption> <h3><?php echo "$file"; ?></h3></figcaption>
 				</figure>
 			</li>
@@ -110,7 +110,7 @@ if ($dir = opendir("./robot-prog")) {
 						<h3><?php echo "$file"; ?></h3>
 						
 					</figcaption>
-					<img src="img/large/1.png" alt="img01"/>
+					<img src="img/flac.jpg" alt="img01"/>
 				</figure>
 			</li>
 
