@@ -51,6 +51,9 @@ if(count($error) > 0) {
     <td><?php print $value; ?></td>
   </tr>
 </table>
+
+
+
 <?php
   }  
 } else { 

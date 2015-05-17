@@ -1,3 +1,21 @@
+
+<head><link href="css/bootstrap.css" rel="stylesheet">
+
+
+<script src="js/angular/angular.js"></script>
+
+<script src="js/jquery-2.1.3.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+
+<link rel="stylesheet" href="css/common.css">
+<script src="js/main.js"></script>
+
+<script src="js/fastclick.js"></script>
+
+<title>Resister</title>
+</head>
+
+
 <?php
 
 $formList = array('mode', 'input_userid', 'input_password', 'input_name', 'input_email');
@@ -55,6 +73,10 @@ if(count($error) == 0) {
   </tr>
 </table>
 
+<center><a class="button_common button_done" href="purchase.html" style="text-decoration: none;"><h2>TOP</h2></a> </center>
+
+
+
 <?php
 
 } else {
@@ -71,6 +93,10 @@ if(count($error) == 0) {
     </td>
   </tr>
 </table>
+
+<center><a class="button_common button_done" href="purchase.html" style="text-decoration: none;"><h2>TOP</h2></a></center>
+
+
 <?php
   }
 }
