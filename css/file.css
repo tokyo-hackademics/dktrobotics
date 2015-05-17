@@ -240,10 +240,9 @@ span.nav-close:before {
 	content: "\e604";
 }
 
-/* Example media queries (reduce number of columns and change slideshow layout) */
 
 @media screen and (max-width: 60em) {
-	/* responsive columns; see "Element sizing" on http://masonry.desandro.com/options.html */
+
 	.grid li {
 		width: 33.3%;
 	}
