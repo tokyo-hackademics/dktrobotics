@@ -1,6 +1,6 @@
 <?php
 
-  $server = "sv3.php.xdomain.ne.jp";
+  $server = "mysql1.php.xdomain.ne.jp";
   $user = "dktmooc_root";
   $password = "root";
   $dbname = "dktmooc_01";

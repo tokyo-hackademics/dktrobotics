@@ -3,6 +3,12 @@ which moves in offline/online
 # Developer
 D.K.T. President Kensei Demura(info@dkt.jpn.org)
 D.K.T. Developer Taiyo Mizuhashi
+# how to setup environment
+1.Put your slides/documentation/code in your onedrive
+2.customize the file you want to show as a MOOC, modify the <iframe> tag
+  you can get a embed code of your file in onedrive easily.
+3.upload this code to your server which can execute php.
+
 # Cloud Platform
 OneDrive
 # Application

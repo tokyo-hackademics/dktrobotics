@@ -42,10 +42,20 @@
 
 <section class="container-fluid bg">
 
+<?php
+
+$q1 = htmlspecialchars($_POST["q1"], ENT_QUOTES);
+$q2 = htmlspecialchars($_POST["q2"], ENT_QUOTES);
+$q3 = htmlspecialchars($_POST["q3"], ENT_QUOTES);
+$q4 = htmlspecialchars($_POST["understand"], ENT_QUOTES);
+$q5 = htmlspecialchars($_POST["fun"], ENT_QUOTES);
+
+?>
+
+<h1>レッスンの体験は以上です！ありがとうございました！<br>フィードバックにご協力ください！</h1>
+<iframe src="https://docs.google.com/forms/d/1fRLd3qIx2rzZhreyEyHcbtq_szske-6OvGcA_amBZGw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
-
-	</section>
 
 </section>
 
