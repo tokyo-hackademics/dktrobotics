@@ -6,6 +6,12 @@ src:url("../font/mplus-1c-thin.ttf") format("truetype")
 html{
 
 	font-family: "mplus-1c-thin";
+	font-weight: 10;
+	font-style: "truetype";
+
+	color:#FFF;
+	background-color: #000;
+
 
 }
 

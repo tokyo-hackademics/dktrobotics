@@ -36,7 +36,7 @@
 <title>Welcome!</title>
 </head>
 
-<body>
+<body style="background-color:#000">
 <h1>Welcome!</h1>
 
 
