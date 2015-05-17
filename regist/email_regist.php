@@ -31,8 +31,8 @@ if($email == "") {
   $to = $email;
   $subject = "会員登録URL送信メール";
   $message = "以下のURLより会員登録してください。\n".
-  "http://localhost:8888/members/regist/index.php?pre_userid=$pre_user_id";
-  $header = "From:test@test.com";
+  "http://dktmooc.php.xdomain.jp/regist/index.php?pre_userid=$pre_user_id";
+  $header = "From:info@dktmooc.jp";
 	
   if(!mb_send_mail($to, $subject, $message, $header)) {  //メール送信に失敗したら
     array_push($error,"メールが送信できませんでした。<br><a href='http://localhost:8888/members/regist/index.php?pre_userid=$pre_user_id'>遷移先</a>");

@@ -33,7 +33,7 @@ if(count($error) == 0) {
     $to = $input_email;
     $subject = "会員登録URL送信メール";
     $message = "会員登録ありがとうございました。\n"."登録いただいたユーザーIDは[$input_userid]です。";
-    $header = "From:test@test.com";
+    $header = "From:info@dktmooc.jp";
   
     if(!mb_send_mail($to, $subject, $message, $header)) { 
       array_push($error,"メールが送信できませんでした。<br>ただしデータベースへの登録は完了しています。");
