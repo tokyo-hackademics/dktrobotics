@@ -1,5 +1,6 @@
 
-<head><link href="css/bootstrap.css" rel="stylesheet">
+<head>
+<link href="css/bootstrap.css" rel="stylesheet">
 
 
 <script src="js/angular/angular.js"></script>

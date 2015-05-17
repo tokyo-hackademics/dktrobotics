@@ -1,3 +1,8 @@
+<head><link rel="stylesheet" href="css/common.css">
+<script src="js/main.js"></script>
+</head>
+
+
 <?php
 
 

@@ -1,3 +1,8 @@
+<head><link rel="stylesheet" href="css/common.css">
+<script src="js/main.js"></script>
+</head>
+
+
 <form method="post" action="index.php">
   <input type="hidden" name="mode" value="email_regist">
   <table>
